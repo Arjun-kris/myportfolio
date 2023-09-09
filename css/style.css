@@ -621,3 +621,12 @@ textarea::-webkit-scrollbar-thumb{
   padding-bottom: 30px;
 
 }
+
+#contact {
+  font-family: 'Roboto', sans-serif;
+}
+
+#footer {
+  font-family: 'Roboto', sans-serif;
+}
+
