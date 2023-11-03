@@ -71,9 +71,7 @@ myDate.innerHTML = yes;
 const textElement = document.getElementById("text");
 const texts = [
   "R Arjun Krishna",
-  "ആർ. അർജുൻ കൃഷ്ണ",
-  "आर. अर्जुन कृष्ण",
-  "ஆர். அர்ஜுன் கிருஷ்ணா"
+  " "
 ];
 let textIndex = 0;
 let charIndex = 0;
