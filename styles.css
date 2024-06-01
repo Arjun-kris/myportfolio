@@ -1,0 +1,30 @@
+#particles-js {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+body {
+  background: black;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+p {
+  font-family: "Nunito", sans-serif;
+  font-size: 30px;
+  color: white;
+  text-align: center;
+}
+
+@media screen and (max-width: 660px) {
+  body {
+    height: 80vh;
+  }
+}
